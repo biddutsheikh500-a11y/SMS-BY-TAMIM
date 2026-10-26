@@ -6,7 +6,7 @@ apt update -y
 apt upgrade -y
 apt install git -y
 apt install python -y
-git clone https://github.com/biddutsheikh500-a11y/SMS-BY-TAMIM-.git
+git clone https://github.com/biddutsheikh500-a11y/SMS-BY-TAMIM
 chmod +x *
 pip install -r bomb.txt
 python TAMIM-BOMBER.py
